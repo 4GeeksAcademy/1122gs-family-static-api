@@ -24,13 +24,7 @@ jackson_family.add_member(John)
 jackson_family.add_member(Jane)
 jackson_family.add_member(Jimmy)
 
-# family_members = [
-#     {"id": 1, "first_name": "John", "age": 33, "lucky_numbers": [7, 3, 22]},
-#     {"id": 2, "first_name": "Jane", "age": 35, "lucky_numbers": [10, 14, 3]},
-#     {"id": 3, "first_name": "Jimmy", "age": 5, "lucky_numbers": [1]}
-# ]
-# for members in family_members:
-#   jackson_family.add_member(member)
+
 
 
 # Handle/serialize errors like a JSON object
